@@ -1,0 +1,21 @@
+Started by user [8mha:////4Pf1e4QdbjsR49cn0S5z6TXoRi+t+Hico1CPcMXcxS5RAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL94sTUFABL5xaHvwAAAA==[0msaed
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/back-to-aws
+[SSH] script:
+MYSQL_HOST="db_host"
+AWS_SECERT_KEY=**********
+MYSQL_PASSWORD=**********
+DATABASE_NAME="tests2"
+AWS_BUCKET_NAME="mysql-jenkins-2-saed"
+
+/tmp/script.sh $MYSQL_HOST $MYSQL_PASSWORD $DATABASE_NAME $AWS_SECERT_KEY  $AWS_BUCKET_NAME
+
+[SSH] executing...
+/tmp/script.sh: line 15:  : command not found
+Uploading backup to your db bucket
+Completed 1.2 KiB/1.2 KiB (435 Bytes/s) with 1 file(s) remainingupload: ../../tmp/db-13-20-1632835230.sql to s3://mysql-jenkins-2-saed/db-13-20-1632835230.sql
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS

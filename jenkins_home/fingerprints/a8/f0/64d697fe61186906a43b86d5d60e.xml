@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-09-28 12:17:40.2 UTC</timestamp>
+  <md5sum>a8f064d697fe61186906a43b86d5d60e</md5sum>
+  <fileName>Credential id=AWS_SECERT_KEY name=AWS_SECERT_KEY</fileName>
+  <usages>
+    <entry>
+      <string>back-to-aws</string>
+      <ranges>1-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
