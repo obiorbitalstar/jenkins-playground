@@ -199,3 +199,19 @@ ls /var/jenkins_home/ansible/hosts
 ls
 cat hosts 
 exit 
+ls
+cd 
+cd ansible/
+ls
+ssh web 
+ssh remote-host 
+anisbl
+ssh db_host
+ansible-playbook -i hosts people.yml -e "PEOPLE_AGE=25" 
+exit
+cd 
+cd ansible/
+ls
+ansible-playbook -i hosts people.yml -e "PEOPLE_AGE=25" 
+ls
+exit

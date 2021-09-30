@@ -1,0 +1,8 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/first-potato
+[first-potato] $ /bin/sh -xe /tmp/jenkins10247936675269774876.sh
++ /tmp/script.sh Saed Arif true
+/tmp/jenkins10247936675269774876.sh: 2: /tmp/script.sh: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

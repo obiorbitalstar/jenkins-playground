@@ -1,24 +1,4 @@
-Started at Wed Sep 29 08:38:34 UTC 2021
-Processing ansible-test
-Offering ansible-test to Project Build Discarder
-Processing back-to-aws
-Offering back-to-aws to Project Build Discarder
-Processing first-potato
-Offering first-potato to Project Build Discarder
-Processing remote-task
-Offering remote-task to Project Build Discarder
-Finished at Wed Sep 29 08:38:34 UTC 2021. 2ms
-Started at Wed Sep 29 09:38:34 UTC 2021
-Processing ansible-test
-Offering ansible-test to Project Build Discarder
-Processing back-to-aws
-Offering back-to-aws to Project Build Discarder
-Processing first-potato
-Offering first-potato to Project Build Discarder
-Processing remote-task
-Offering remote-task to Project Build Discarder
-Finished at Wed Sep 29 09:38:34 UTC 2021. 1ms
-Started at Wed Sep 29 10:38:34 UTC 2021
+Started at Thu Sep 30 08:02:57 UTC 2021
 Processing anisble-users-db
 Offering anisble-users-db to Project Build Discarder
 Processing ansible-test
@@ -29,16 +9,4 @@ Processing first-potato
 Offering first-potato to Project Build Discarder
 Processing remote-task
 Offering remote-task to Project Build Discarder
-Finished at Wed Sep 29 10:38:34 UTC 2021. 2ms
-Started at Wed Sep 29 11:38:34 UTC 2021
-Processing anisble-users-db
-Offering anisble-users-db to Project Build Discarder
-Processing ansible-test
-Offering ansible-test to Project Build Discarder
-Processing back-to-aws
-Offering back-to-aws to Project Build Discarder
-Processing first-potato
-Offering first-potato to Project Build Discarder
-Processing remote-task
-Offering remote-task to Project Build Discarder
-Finished at Wed Sep 29 11:38:34 UTC 2021. 3ms
+Finished at Thu Sep 30 08:02:57 UTC 2021. 7ms
