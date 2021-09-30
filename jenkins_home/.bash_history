@@ -240,3 +240,20 @@ ls
 ls target/
 ls target/*.jar
 exit 
+curl gitlab.example.com 
+ping gitlab.example.com 
+ping gitlab.example.com:8090 
+curl gitlab.example.com:8090
+curl gitlab.example.com:80
+exit
+curl git
+curl git.example.com:8090
+curl git.example.com:80
+curl gitlab.example.com:80
+ping 
+sudo yum -y install ping 
+yum -y install ping 
+exit 
+curl git:8090
+curl git:80
+exit
