@@ -215,3 +215,28 @@ ls
 ansible-playbook -i hosts people.yml -e "PEOPLE_AGE=25" 
 ls
 exit
+cd /var/jenkins_home/workspace/
+ll
+l
+ls
+cd maven-job/
+ls
+ls -la 
+ls
+cd target/
+ls
+java -jar /var/jenkins_home/workspace/maven-job/target/my-app-1.0-SNAPSHOT.jar
+cd ..
+java -jar /var/jenkins_home/workspace/maven-job/target/my-app-1.0-SNAPSHOT.jar
+cd target/
+ls
+cd surefire-reports/
+ls
+cd ..
+cd ..
+ls
+ls target/surefire-reports/*.xml 
+ls
+ls target/
+ls target/*.jar
+exit 
