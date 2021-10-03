@@ -12,3 +12,95 @@ Offering maven-job to Project Build Discarder
 Processing remote-task
 Offering remote-task to Project Build Discarder
 Finished at Sun Oct 03 09:11:57 UTC 2021. 4ms
+Started at Sun Oct 03 10:11:57 UTC 2021
+Processing anisble-users-db
+Offering anisble-users-db to Project Build Discarder
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing back-to-aws
+Offering back-to-aws to Project Build Discarder
+Processing first-potato
+Offering first-potato to Project Build Discarder
+Processing job-dsl
+Offering job-dsl to Project Build Discarder
+Processing job_dsl_created
+Offering job_dsl_created to Project Build Discarder
+Processing job_dsl_example
+Offering job_dsl_example to Project Build Discarder
+Processing maven-job
+Offering maven-job to Project Build Discarder
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Finished at Sun Oct 03 10:11:57 UTC 2021. 1ms
+Started at Sun Oct 03 11:11:57 UTC 2021
+Processing anisble-users-db
+Offering anisble-users-db to Project Build Discarder
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-users-db-dsl
+Offering ansible-users-db-dsl to Project Build Discarder
+Processing back-to-aws
+Offering back-to-aws to Project Build Discarder
+Processing first-potato
+Offering first-potato to Project Build Discarder
+Processing job-dsl
+Offering job-dsl to Project Build Discarder
+Processing job_dsl_created
+Offering job_dsl_created to Project Build Discarder
+Processing job_dsl_example
+Offering job_dsl_example to Project Build Discarder
+Processing maven-job
+Offering maven-job to Project Build Discarder
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Finished at Sun Oct 03 11:11:57 UTC 2021. 0ms
+Started at Sun Oct 03 12:11:57 UTC 2021
+Processing anisble-users-db
+Offering anisble-users-db to Project Build Discarder
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-users-db-dsl
+Offering ansible-users-db-dsl to Project Build Discarder
+Processing back-to-aws
+Offering back-to-aws to Project Build Discarder
+Processing first-potato
+Offering first-potato to Project Build Discarder
+Processing job-dsl
+Offering job-dsl to Project Build Discarder
+Processing job_dsl_created
+Offering job_dsl_created to Project Build Discarder
+Processing job_dsl_example
+Offering job_dsl_example to Project Build Discarder
+Processing maven-job
+Offering maven-job to Project Build Discarder
+Processing maven_dsl
+Offering maven_dsl to Project Build Discarder
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Finished at Sun Oct 03 12:11:57 UTC 2021. 2ms
+Started at Sun Oct 03 13:15:46 UTC 2021
+Processing anisble-users-db
+Offering anisble-users-db to Project Build Discarder
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-users-db-dsl
+Offering ansible-users-db-dsl to Project Build Discarder
+Processing back-to-aws
+Offering back-to-aws to Project Build Discarder
+Processing first-potato
+Offering first-potato to Project Build Discarder
+Processing git-job-test-hooks
+Offering git-job-test-hooks to Project Build Discarder
+Processing job-dsl
+Offering job-dsl to Project Build Discarder
+Processing job_dsl_created
+Offering job_dsl_created to Project Build Discarder
+Processing job_dsl_example
+Offering job_dsl_example to Project Build Discarder
+Processing maven-job
+Offering maven-job to Project Build Discarder
+Processing maven_dsl
+Offering maven_dsl to Project Build Discarder
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Finished at Sun Oct 03 13:15:46 UTC 2021. 1ms

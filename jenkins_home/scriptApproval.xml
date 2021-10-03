@@ -2,7 +2,18 @@
 <scriptApproval plugin="script-security@1.78">
   <approvedScriptHashes>
     <string>017d0db438428731cd600b6ebda805065433520f</string>
+    <string>0b332ede2aa8cb411247b1a6152629e97c00e426</string>
+    <string>0baa58d8792eead3ce60abdc076e37eda77923e6</string>
+    <string>13c4b9c54e8b5a356756a208d444a180952933a2</string>
     <string>18b0758c7c1a4f8fa801e8a55c6ccf7f20e3446c</string>
+    <string>223fb7d38ac77ec75b7e02c6f26b38685f902949</string>
+    <string>48c006970d3ffd405ee4166a914a6e45ab4fa4de</string>
+    <string>69842268fe3e305c2b87a11cca426917fa774a61</string>
+    <string>76a45b61eacdfae39185280bee22273e6a670689</string>
+    <string>8c06b15a1477440a672b071127ad37845a65b2b8</string>
+    <string>b8e69e8c8487d4f31bcd0754eddb1198fc42f0bb</string>
+    <string>dd3eab36d2edf48be10e6e56d09002c679df9faf</string>
+    <string>eb0fc98154fdf80a5e57405f0c34fa86be48de01</string>
   </approvedScriptHashes>
   <approvedSignatures/>
   <aclApprovedSignatures/>

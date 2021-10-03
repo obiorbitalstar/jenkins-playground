@@ -5,6 +5,10 @@
   <fileName>Credential id=gitlab_user name=saed1/******</fileName>
   <usages>
     <entry>
+      <string>job-dsl</string>
+      <ranges>13-15</ranges>
+    </entry>
+    <entry>
       <string>maven-job</string>
       <ranges>28-29</ranges>
     </entry>

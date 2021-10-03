@@ -9,10 +9,31 @@
   </templateJobMap>
   <generatedJobMap class="concurrent-hash-map">
     <entry>
-      <string>job_dsl_created</string>
+      <string>maven_dsl</string>
       <javaposse.jobdsl.plugin.SeedReference>
         <seedJobName>job-dsl</seedJobName>
-        <digest>cddcbae5500cbfebfeb9814c4fcf0446</digest>
+        <digest>e56d248f7df1b3aabcca0d6600f27534</digest>
+      </javaposse.jobdsl.plugin.SeedReference>
+    </entry>
+    <entry>
+      <string>ansible-users-db-dsl</string>
+      <javaposse.jobdsl.plugin.SeedReference>
+        <seedJobName>job-dsl</seedJobName>
+        <digest>d4a5e2d82a486c2af56bef3a52055f8d</digest>
+      </javaposse.jobdsl.plugin.SeedReference>
+    </entry>
+    <entry>
+      <string>job_dsl_example</string>
+      <javaposse.jobdsl.plugin.SeedReference>
+        <seedJobName>job-dsl</seedJobName>
+        <digest>c30a8e4fbd68be8da35818aa498dbdbb</digest>
+      </javaposse.jobdsl.plugin.SeedReference>
+    </entry>
+    <entry>
+      <string>git-job-test-hooks</string>
+      <javaposse.jobdsl.plugin.SeedReference>
+        <seedJobName>job-dsl</seedJobName>
+        <digest>c30a8e4fbd68be8da35818aa498dbdbb</digest>
       </javaposse.jobdsl.plugin.SeedReference>
     </entry>
   </generatedJobMap>
