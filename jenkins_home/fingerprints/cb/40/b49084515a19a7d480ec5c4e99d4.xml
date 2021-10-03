@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-03 15:02:49.696 UTC</timestamp>
+  <md5sum>cb40b49084515a19a7d480ec5c4e99d4</md5sum>
+  <fileName>Credential id=SECERT_TEXT name=SECERT_TEXT</fileName>
+  <usages>
+    <entry>
+      <string>pipeline</string>
+      <ranges>6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

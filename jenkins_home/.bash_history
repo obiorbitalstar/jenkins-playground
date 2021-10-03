@@ -257,3 +257,5 @@ exit
 curl git:8090
 curl git:80
 exit
+docker ps 
+exit 
