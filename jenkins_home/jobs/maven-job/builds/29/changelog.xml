@@ -1,0 +1,44 @@
+commit 97e05e0bf83cfb85792c355077f9b2235f5c57d4
+tree 6c557bb9ad7212a34d998242ba21ac8b33cb1af1
+parent 914cc2020f0b96ba3985ff16dd9439e5e39d5c36
+author obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:37:44 +0300
+committer obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:37:44 +0300
+
+    m
+
+
+:100644 100644 667a189287cf1e4bcf9b6ff7a854e02125e94ae0 a86bb2b8df8463523a63748cbff38036f794c87e M	src/main/java/com/mycompany/app/App.java
+:100644 100644 9bf5fb72a38d28311703efe40ea1a728de856e95 1eb9a92d513293cf9b6506542675f62086356859 M	src/test/java/com/mycompany/app/AppTest.java
+commit 914cc2020f0b96ba3985ff16dd9439e5e39d5c36
+tree 731c45c175875df321d474bb4fdeae421cda20c3
+parent 629abc4fdef57dc87910ec46fdb8fd09d232031e
+author obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:34:23 +0300
+committer obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:34:23 +0300
+
+    testtt
+
+
+:100644 100644 6dc23ea7cc383d89cb53531f73b2d2d75a6b7cd6 667a189287cf1e4bcf9b6ff7a854e02125e94ae0 M	src/main/java/com/mycompany/app/App.java
+:100644 100644 d09d3d4d260fc304f022151b73450742a9fa6211 9bf5fb72a38d28311703efe40ea1a728de856e95 M	src/test/java/com/mycompany/app/AppTest.java
+commit 629abc4fdef57dc87910ec46fdb8fd09d232031e
+tree 10b8e7be2e023f67d59475abf3838165bfda98a8
+parent f30f8ab6a00efa57a5c9ac54933d553d551efdbd
+author obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:28:36 +0300
+committer obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:28:36 +0300
+
+    testin git hooks 2
+
+
+:100644 100644 aa7c41164eae6cebde3b13bf35fa132c19858d4c 6dc23ea7cc383d89cb53531f73b2d2d75a6b7cd6 M	src/main/java/com/mycompany/app/App.java
+:100644 100644 a9f34eac8081c43775b43d52f5b48ef2efaf4059 d09d3d4d260fc304f022151b73450742a9fa6211 M	src/test/java/com/mycompany/app/AppTest.java
+commit f30f8ab6a00efa57a5c9ac54933d553d551efdbd
+tree f345c265050ce8ca894cb8c4271b2bb58e5b3a9e
+parent 5b02cd4acf49d8dbc7d20ad034382db86227b572
+author obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:21:44 +0300
+committer obiorbitalstar <obiorbitalstar@gmail.com> 2021-10-03 11:21:44 +0300
+
+    test git hook trigger
+
+
+:100644 100644 5a6d57214d17ba7484046928cf2e933ec550b50a aa7c41164eae6cebde3b13bf35fa132c19858d4c M	src/main/java/com/mycompany/app/App.java
+:100644 100644 908bac851aef9be99dcc57a0efb36dc514d4e5ca a9f34eac8081c43775b43d52f5b48ef2efaf4059 M	src/test/java/com/mycompany/app/AppTest.java
