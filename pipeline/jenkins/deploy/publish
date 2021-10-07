@@ -1,0 +1,10 @@
+!#/bin/bash 
+
+export IMAGE=$(sed -n '1p' /tmp/.aut)
+export TAG=$(sed -n '2p' /tmp/.aut)
+export PASS=$(sed -n '3p' /tmp/.aut)
+
+docker login -u obiorbitalstar -p $PASS 
+
+cd /maven && docker-compose up -d 
+

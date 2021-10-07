@@ -259,3 +259,8 @@ curl git:80
 exit
 docker ps 
 exit 
+docker ps 
+exit
+docker ps 
+docker images 
+exit
